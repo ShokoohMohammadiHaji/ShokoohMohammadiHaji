@@ -1,7 +1,5 @@
-## Hi there 👋
-
-<!--
-**ShokoohMohammadiHaji/ShokoohMohammadiHaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
+I am Shokooh. Currently living in Lahti, Finland and I am studding Industrial Information Technology in LAB university.
 
 Here are some ideas to get you started:
 
